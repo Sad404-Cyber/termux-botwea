@@ -45,21 +45,21 @@ const {
 /*
 SETTINGS
 */
-botName = "GHOST BOT" // NAMA BOT
-ownerName = "X - MrR4M" // NAMA OWNER
-vhtear = "APIKEY" // https://vhtear.com
+botName = "YAN GANZ BOT" // NAMA BOT
+ownerName = "YAN GANZ" // NAMA OWNER
+vhtear = "sayahafiz" // https://vhtear.com
 xteam = "APIKEY" // https://api.xteam.xyz
-prefix = "/" // PREFIX / AWALAN
+prefix = "x" // PREFIX / AWALAN
 blocked = []
-limitawal = "50" // LIMIT USER
+limitawal = "9999" // LIMIT USER
 memberlimit = "0" // MEMBER LIMIT GROUP
-cr = "*GHOST BOTZ VERIFIED*" // FAKE REPLY
-const ownerNumber = "6285559240360@s.whatsapp.net" // NOMOR OWNER
+cr = "*YAN BOT GANZ*" // FAKE REPLY
+const ownerNumber = "62895413606266@s.whatsapp.net" // NOMOR OWNER
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:X - MrR4M\n' // NAMA OWNER
-            + 'ORG:GHOST BOT;\n' // NAMA BOT
-            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // NOMOR OWNER
+            + 'FN:YAN GANZ\n' // NAMA OWNER
+            + 'ORG:YAN GANZ BOT;\n' // NAMA BOT
+            + 'TEL;type=CELL;type=VOICE;waid=62895413606266:+62895413606266\n' // NOMOR OWNER
             + 'END:VCARD'
 /*
 SETTINGS
@@ -769,6 +769,7 @@ ${a}❏ Total Block Contact : ${blocked.length}${a}
 
 *THANKS TO*
 ${a}❏ Ramlan ID${a}
+${a}❏ Hafidz Abdillah${a}
 ${a}❏ MrG3P5${a}
 ${a}❏ MrHRTZ${a}
 ${a}❏ Nafiz${a}
