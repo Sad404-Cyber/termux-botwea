@@ -45,21 +45,21 @@ const {
 /*
 SETTINGS
 */
-botName = "YAN GANZ BOT" // NAMA BOT
-ownerName = "YAN GANZ" // NAMA OWNER
+botName = "ᴀʙᴅɪʟʟᴀʜ ʙᴏᴛ" // NAMA BOT
+ownerName = "Itsme Abdillahᴛ // NAMA OWNER
 vhtear = "sayahafiz" // https://vhtear.com
 xteam = "APIKEY" // https://api.xteam.xyz
 prefix = "x" // PREFIX / AWALAN
 blocked = []
 limitawal = "9999" // LIMIT USER
 memberlimit = "0" // MEMBER LIMIT GROUP
-cr = "*YAN BOT GANZ*" // FAKE REPLY
-const ownerNumber = "62895413606266@s.whatsapp.net" // NOMOR OWNER
+cr = "*ᴀʙᴅɪʟʟᴀʜ ʙᴏᴛ*" // FAKE REPLY
+const ownerNumber = "6288233625908@s.whatsapp.net" // NOMOR OWNER
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:YAN GANZ\n' // NAMA OWNER
             + 'ORG:YAN GANZ BOT;\n' // NAMA BOT
-            + 'TEL;type=CELL;type=VOICE;waid=62895413606266:+62895413606266\n' // NOMOR OWNER
+            + 'TEL;type=CELL;type=VOICE;waid=6288233625908:+6288233625908\n' // NOMOR OWNER
             + 'END:VCARD'
 /*
 SETTINGS
